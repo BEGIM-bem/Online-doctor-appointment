@@ -1,0 +1,32 @@
+.photoIcon {}
+
+.conteiner {
+    margin: 0 auto;
+    display: flex;
+    width: 74rem;
+    margin-top: 5rem;
+    /* justify-content: center; */
+}
+
+.text2 {
+    padding: 10px;
+    color: #1f819e;
+    font-size: 16.5px;
+    letter-spacing: .0.2em;
+}
+
+.AllText {
+    margin-left: 2rem;
+}
+
+.title {
+
+    font-size: 32px;
+    padding-bottom: 1rem;
+    color: #1f819e;
+}
+
+.strong {
+    color: #0e5d75;
+    font-weight: 600;
+}
