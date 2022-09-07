@@ -1,6 +1,6 @@
 # Online Doctor Appointment
 
-Online Doctor Appointment is a website where you can find information about clicks on doctors who work there, also make an appointment
+Online doctor's appointment is a website where you can find information about the clinic, information about the doctors who work there, as well as make an appointment
 
 ![](./img/img.png)
 
