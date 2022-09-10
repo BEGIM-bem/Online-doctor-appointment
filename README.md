@@ -25,11 +25,11 @@ __Install__
 
 Use the git to clone the project to your local machine.
   
-    https://github.com/BEGIM-bem/Online-doctor-appointment.git
+    git clone https://github.com/BEGIM-bem/Online-doctor-appointment.git
 
 __client__
 
-    cd client
+    cd Online-doctor-appointment
     npm install
     npm start
 
